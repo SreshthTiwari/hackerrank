@@ -1,1 +1,1 @@
-# Leetcode Problems Solved
+# HackerRank Problems Solved
